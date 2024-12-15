@@ -14,3 +14,24 @@ To regain it AtliQ Grands plans to integrate data-driven decision-making by anal
 <a href="hotel_insights.pbix">dashboard link</a>
 ## Dash board
 ![Hotel insights_DB](https://github.com/user-attachments/assets/d1e019eb-25fb-4ef5-8775-89de2dbcca65)
+# Key Insights
+Revenue Leaders: Mumbai properties, especially Atliq Exotica (117M), drive the highest revenue, with Hyderabad following closely.
+## Performance Metrics:
+High RevPAR and ADR in Mumbai indicate effective pricing strategies.
+Lower occupancy rates in Bangalore signal underperformance.
+## Customer Feedback:
+Top-rated properties like Atliq Exotica (Mumbai) and Atliq Blu (Delhi) (>4.2 rating) align with high revenue.
+Low-rated properties (<3.0) like Atliq Exotica (Bangalore) need quality improvements.
+## Cancellations:
+Cancellation rates average 24.84%. Policies may need review to improve retention.
+## Week-on-Week Trends: Currently stagnant (0.00% WoW Change); tracking trends can reveal seasonal patterns.
+# Recommendations
+Boost Low Performers: Optimize pricing and marketing in Bangalore.
+Enhance Service Quality: Focus on low-rated properties to improve guest satisfaction.
+Retain Customers: Revise cancellation policies and offer better booking incentives.
+Maximize Opportunities: Invest further in high-revenue cities like Mumbai and Hyderabad.
+
+
+
+
+
